@@ -49,5 +49,5 @@ Si bien al comienzo la manzana tiene un grado de madurez que inicia en 1, y que 
 
 1. Ejecutar  el siguiente escenario de prueba, asumiendo que pepita tiene una energía inicial de 100 unidades:
    * Hacer que pepita coma una manzana. La energía de pepita debe ser ahora de 105 unidades.
-   * Hacer que la manzana madure.  Entonces su madurez ahora vale 7.5
+   * Hacer que la manzana madure.  Entonces su madurez ahora vale 1.5 y la energia que aporta es 7.5
    * Hacer que pepita coma nuevamente manzana. La energía de pepita debe ser ahora de 112.5 unidades.
